@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>LOT BILUT.kml</name>
+	<Style id="line1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Line Features</name>
+		<description>Line Features</description>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8941353248,3.6575355501,0 101.8943039372,3.6572939444,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8943039372,3.6572939444,0 101.8943587793,3.6571832845,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[DASHED_LINE<BR><BR><B>LAYER</B> = DASHED_LINE<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8943587793,3.6571832845,0 101.8944088072,3.6570823388,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8944088072,3.6570823388,0 101.8946236923,3.656649377,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8946236923,3.656649377,0 101.8947642301,3.6563661104,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8947642301,3.6563661104,0 101.8945380257,3.656255268199999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8945380257,3.656255268199999,0 101.8943669934,3.6565441582,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8943669934,3.6565441582,0 101.8942216825,3.656789602,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8943669934,3.6565441582,0 101.8946236813,3.6566494002,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8945380257,3.656255268199999,0 101.8944285642,3.656201631,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8944285642,3.656201631,0 101.894307129,3.6561421267,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.894307129,3.6561421267,0 101.8941867456,3.6560831376,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8941867456,3.6560831376,0 101.8940120764,3.655997548000001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8940120764,3.655997548000001,0 101.8939465451,3.655965437099999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8940120764,3.655997548000001,0 101.8938302158,3.6561773938,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8938302093,3.6561774243,0 101.8939282421,3.6563308381,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8939282421,3.6563308381,0 101.8940274907,3.6564861544,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8940274907,3.6564861544,0 101.8941261558,3.656640557499999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8941261558,3.656640557499999,0 101.8942215629,3.6567898621,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8939282487,3.6563308076,0 101.8941867456,3.6560831376,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8941261624,3.656640527,0 101.8944285642,3.656201631,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8940274973,3.6564861239,0 101.894307129,3.6561421267,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8943587793,3.6571832845,0 101.8942730977,3.6570491996,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8942730977,3.6570491996,0 101.8941890694,3.656917701999999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8941890694,3.656917701999999,0 101.8938948039,3.657271563900001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[0<BR><BR><B>LAYER</B> = 0<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8938948039,3.657271563900001,0 101.8939151557,3.6573173987,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8939151557,3.6573173987,0 101.8941353248,3.6575355501,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8942730977,3.6570491996,0 101.8939151557,3.6573173987,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[DASHED_LINE<BR><BR><B>LAYER</B> = DASHED_LINE<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8941890694,3.656917701999999,0 101.8936948472,3.6568213309,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[DASHED_LINE<BR><BR><B>LAYER</B> = DASHED_LINE<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8936948472,3.6568213309,0 101.8938947718,3.6572715853,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8947642301,3.6563661104,0 101.8949321059,3.6559957726,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8949321059,3.6559957726,0 101.8947877963,3.6558767892,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8947877963,3.6558767892,0 101.8946230999,3.6557970673,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8939465451,3.655965437099999,0 101.8938592778,3.656012624,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8938592778,3.656012624,0 101.8937594078,3.6560666254,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8949321059,3.6559957726,0 101.8953269863,3.6551246556,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8953269863,3.6551246556,0 101.895302215,3.6550478324,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.895302215,3.6550478324,0 101.8946523967,3.6546738163,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8946523967,3.6546738163,0 101.8945655607,3.6548326572,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8945655607,3.6548326572,0 101.894477338,3.6549940344,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.894477338,3.6549940344,0 101.8943903286,3.6551531923,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8943903286,3.6551531923,0 101.894299246,3.6553198008,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.894299246,3.6553198008,0 101.8942102433,3.6554826047,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8942102433,3.6554826047,0 101.8941219338,3.6556441404,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8941219338,3.6556441404,0 101.8940350976,3.655802981199999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8937594078,3.6560666254,0 101.8938302093,3.6561774243,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8942215629,3.6567898621,0 101.8944086328,3.6570826116,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8940350976,3.655802981199999,0 101.8939467014,3.655964675399999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8946230999,3.6557970673,0 101.894428463,3.6562012328,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[LOT<BR><BR><B>LAYER</B> = LOT<BR><B>GM_TYPE</B> = Unknown Line Type<BR><B>ELEVATION</B> = 0.0]]></description>
+			<styleUrl>#line1</styleUrl>
+			<LineString>
+				<coordinates>
+					101.8947877963,3.6558767892,0 101.8945380031,3.6562550755,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
